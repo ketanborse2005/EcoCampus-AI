@@ -1,0 +1,6 @@
+{
+  "name": "EcoCampus AI",
+  "description": "Agentic AI platform for sustainable campus resource management, anomaly detection, carbon estimation, and sustainability recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
